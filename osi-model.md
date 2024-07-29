@@ -48,3 +48,7 @@ Processes such as data encoding, compression, and encryption happen on this laye
 The OSI model’s top and final layer is the Application layer. 
 The Application layer displays the data in the correct format to the end-user—you! 
 This includes technologies such as HTTP, DNS, FTP, SSH, and much more. 
+
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/447946f8-8a16-4bf5-a380-9fd6b471cac2">
+
+
